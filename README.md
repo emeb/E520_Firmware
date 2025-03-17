@@ -25,11 +25,3 @@ SD card then you will be given the choice to install it.
 5. Select “Yes” to begin installation.  This will take some time but you will
 see progress information.
 6. After flashing completes push the encoder button to restart the system.
-There may be a wait of up to a minute with a black screen while the E520 resets
-its EEPROM, but it should eventually start up normally with a splash screen that
-then proceeds to the main screen.
-7. Navigate to the TOP→FILE→SYS LOAD menu page and select the file you saved in
-step 2 above. Answer “Y” to confirm you want to load the saved settings.
-8. The E520 will provide a progress bar and status text telling you that it’s
-converting. When it finishes you can navigate back to the Main menu and use it
-normally.
