@@ -10,8 +10,11 @@ addressed by this late release in March 2025.
 Find out more detail about the E520 at the
 [Synthesis Technology website](https://synthtech.com/eurorack/E520/).
 
+## Download the firmware file
+1. Go to the [view page](./e520_fmw.bin) <-- by clicking this link.
+2. Click on the "download raw file" button to begin downloading.
+
 ## Installation
-0. Download the file [e520_fmw.bin](./e520_fmw.bin) <-- by clicking this link.
 1. Copy the firmware file “e520_fmw.bin” onto a FAT32 formatted SD card of 32GB
 or less.
 2. Turn on the E520 and insert the SD card into your E520’s Micro SD card slot.
