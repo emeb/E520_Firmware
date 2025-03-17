@@ -17,11 +17,10 @@ Find out more detail about the E520 at the
 ## Installation
 1. Copy the firmware file “e520_fmw.bin” onto a FAT32 formatted SD card of 32GB
 or less.
-2. Turn on the E520 and insert the SD card into your E520’s Micro SD card slot.
-3. Navigate to the TOP→FILE→SYS SAVE menu page and save your current settings.
-4. While holding in the encoder button, cycle power on the E520. When you see
+2. Turn off the E520 and insert the SD card into your E520’s Micro SD card slot.
+3. While holding in the encoder button, turn on the E520. When you see
 the blue bootloader screen. If your firmware file was properly copied to the
 SD card then you will be given the choice to install it.
-5. Select “Yes” to begin installation.  This will take some time but you will
+4. Select “Yes” to begin installation.  This will take some time but you will
 see progress information.
-6. After flashing completes push the encoder button to restart the system.
+5. After flashing completes push the encoder button to restart the system.
